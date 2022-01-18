@@ -1,10 +1,3 @@
-//
-//  JenkinsUITests.swift
-//  JenkinsUITests
-//
-//  Created by Ivan Kudinov on 18/1/22.
-//
-
 import XCTest
 
 class JenkinsUITests: XCTestCase {

@@ -1,10 +1,3 @@
-//
-//  JenkinsTests.swift
-//  JenkinsTests
-//
-//  Created by Ivan Kudinov on 18/1/22.
-//
-
 import XCTest
 @testable import Jenkins
 
